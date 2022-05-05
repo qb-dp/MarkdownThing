@@ -1,3 +1,8 @@
+https://fm-aid.com/markdownthing/
+
+account: admin  
+password: admin
+
 # MarkdownThing
 
 ## Markdown editor for free with FileMaker
@@ -15,7 +20,10 @@ Create rich text documents with images.
 |FileMaker Go 19.3|iPadOS 15.1<br>iOS 15.1|
 |FileMaker Server 19|Windows |
 
-https://fm-aid.com/markdownthing/
 
-account: admin  
-password: admin
+# MarkdownThing (マークダウンシング)
+FileMakerのフィールドに記述したMarkdownをWEBビューアで表示  
+画像込みのリッチテキストドキュメントが作成出来ます。
+
+## Mac、Windows、iOS:FileMaker Go(iPhone・iPad)で使用出来ます。
+>iPhone・iPadは、閲覧のみ
