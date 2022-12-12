@@ -29,5 +29,4 @@ FileMakerのフィールドに記述したMarkdownをWEBビューアで表示
 ## Mac、Windows、iOS:FileMaker Go(iPhone・iPad)で使用出来ます。
 >iPhone・iPadは、閲覧のみ
 
-開発支援 1口500円(複数口可)
-https://fm-aid.com/markdownthing/?id=A8A2DE08-905E-2845-8522-14978FB1B040
+[開発支援 1口500円(複数口可)](https://fm-aid.com/markdownthing/?id=A8A2DE08-905E-2845-8522-14978FB1B040)
