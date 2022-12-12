@@ -13,8 +13,7 @@ Create rich text documents with images.
 ## Can be used with Mac, Windows, and iOS: FileMaker Go (iPhone and iPad).
 >iPhone and iPad are for viewing only.
 
-Development support 500 yen per unit (multiple units possible)
-https://fm-aid.com/markdownthing/?id=A8A2DE08-905E-2845-8522-14978FB1B040
+[Development support 500 yen per unit (multiple units possible)](https://fm-aid.com/markdownthing/?id=A8A2DE08-905E-2845-8522-14978FB1B040)
 
 |Operation Verification||
 |----|----|
